@@ -1,0 +1,4 @@
+clc; clear the all command
+clear all; clear the totalsapce
+close all;close the figure window
+magic=sum of row column same 3,4c
