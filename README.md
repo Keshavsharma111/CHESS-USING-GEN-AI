@@ -218,6 +218,15 @@ Returns backend service operational status.
    - Positional evaluations and move recommendations originate strictly from the backend ML model.
 3. **Resilience & Fallback Architecture**:
    - Includes graceful fallbacks for MongoDB database connections and backend offline states.
+   - ## 👨‍💻 Contributors
+
+### Made by
+**Keshavsharma111**
+
+### Collaboration
+**Keshavverma**
+
+This project was developed by **Keshavsharma111** with collaboration from **Keshavverma**.
 
 ---
 
